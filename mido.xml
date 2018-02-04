@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-v2.1-mido-20180830
+<VersionName>Atomic-OS-PLASMA-2.2-mido-20180203-1745
 </VersionName>
-<VersionNumber type="integer">20180830</VersionNumber>
-<DirectUrl><![CDATA[https://www.google.com]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.youtube.com]]></HttpUrl>
+<VersionNumber type="integer">20180203</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/mido/Atomic-OS-PLASMA-2.2-mido-20180203-1745.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/mido/Atomic-OS-PLASMA-2.2-mido-20180203-1745.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
 <CheckMD5>253fe1f1d52ad10c243ed9cbb4844642</CheckMD5>
-<FileSize type="integer">414337255</FileSize>
+<FileSize type="integer">408177255</FileSize>
 <Developer><![CDATA[AKabhishek]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-atomic-os-t3640177]]></WebsiteURL>
-<DonateURL><![CDATA[https://www.google.com/]]></DonateURL>
+<DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
 <![CDATA[
-- OTA Works !
----
 # Note : 
 _Clean flash is  recommended. Bug reports are not appreciated without Logcat.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
 ---
 ]]>
 </Changelog>
-<AddonCount>3</AddonCount>
-<AddonsURL>
-https://www.google.com/
-</AddonsURL>
 </ROM>
