@@ -14,19 +14,19 @@
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
 <![CDATA[
-Added double to sleep on lockscreen.
-&#xA;Added lockscreen media art toggle.
-&#xA;Added double tap to sleep on statusbar.
-&#xA;Added toggle to disable power menu on secure lock screen.
-&#xA;Allow to kill any app from recents panel in a safe way.
-&#xA;Display bluetooth battery status when available.&#xA;
+Added double to sleep on lockscreen.&#xA;
+Added lockscreen media art toggle.&#xA;
+Added double tap to sleep on statusbar.&#xA;
+Added toggle to disable power menu on secure lock screen.&#xA;
+Allow to kill any app from recents panel in a safe way.&#xA;
+Display bluetooth battery status when available.&#xA;
 Show 4G instead of LTE switch.&#xA;
 Hide lockscreen items.&#xA;
-Allow doubletap/longpress power to toggle torch.
-&#xA;Show carrier label / custom label.
+Allow doubletap/longpress power to toggle torch.&#xA;
+Show carrier label / custom label.&#xA;
 Allow to suppress sound/vibration if screen on .&#xA;
-Fixed offline charging.
-&#xA;Fixed issues with cast.
+Fixed offline charging.&#xA;
+Fixed issues with cast.&#xA;
 Added fling dark icons.&#xA;
 Merge tag 'LA.UM.6.4.r1-05700-8x98.0' into qcom_sepolicy.&#xA;
 Change dimen to removed left padding.&#xA;
@@ -53,7 +53,7 @@ Exposed notification log.&#xA;
 Added sim enable toggle.&#xA;
 Unlink notification and ringer sound.&#xA;
 Improved Thermals and upstreamed kernel.&#xA;
-Latest lineage merges.
+Latest lineage merges.&#xA;
 ]]>
 </Changelog>
 </ROM>
