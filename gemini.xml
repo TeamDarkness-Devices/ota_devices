@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>Atomic-OS</RomName>
+<VersionName>Atomic-OS-PLASMA-2.2-gemini-20180204-1219
+</VersionName>
+<VersionNumber type="integer">20180204</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/gemini/Atomic-OS-PLASMA-2.2-gemini-20180204-1219.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/gemini/Atomic-OS-PLASMA-2.2-gemini-20180204-1219.zip/download]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5>4c4faa3886b5f03348113653edd5765c</CheckMD5>
+<FileSize type="integer">493717774</FileSize>
+<Developer><![CDATA[RohanK and MOVZX]]></Developer>
+<WebsiteURL><![CDATA[https://www.beeg.com/]]></WebsiteURL>
+<DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
+<Changelog>
+<![CDATA[Added double to sleep on lockscreen.<br>Added lockscreen media art toggle.<br>Added double tap to sleep on statusbar.<br>Added toggle to disable power menu on secure lock screen.<br>
+—> Allow to kill any app from recents panel in a safe way.<br>
+—> Display bluetooth battery status when available.
+—> Show 4G instead of LTE switch.
+—> Hide lockscreen items.
+—> Allow doubletap/longpress power to toggle torch.
+—> Show carrier label / custom label.
+—> Allow to suppress sound/vibration if screen on .
+—> Fixed offline charging.
+—> Fixed issues with cast.
+—> Added fling dark icons.
+—> Merge tag 'LA.UM.6.4.r1-05700-8x98.0' into qcom_sepolicy.
+—> Change dimen to removed left padding.
+—> Allow to remove forced start margin. 
+—> Added ambient display music ticker.
+—> Rebased Launcher3.
+—> Enabled sepolicy for all.
+—> Screen off animations.
+—> add automatic albumart base color mode for pulse.
+—> Add vpn icon in tuner.
+—> Powermenu lockscreen visibility for others.
+—> Smart notification sound options.
+—> Removed volte icon and appen volte status in carrier name.
+—> Fixed some null errors and crashes .
+—> Some more improvements and clean ups in sources.
+—> Allow to dismiss keyguard automatically when face is recognised.
+—> Fixed dialog colors on dark/black theme.
+—> Removed left padding in settings.
+—> Added OTA app.
+—> Show internal storage by default in Documets UI.
+—> Enabled qs panel transparency.
+—> Updated prebuilt retro APK.
+—> Exposed notification log.
+—> Added sim enable toggle.
+—> Unlink notification and ringer sound.
+—> Improved Thermals and upstreamed kernel.
+—> Latest lineage merges.
+]]>
+</Changelog>
+</ROM>
