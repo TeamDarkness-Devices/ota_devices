@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>Atomic-OS</RomName>
+<VersionName>Atomic-OS-PLASMA-2.3-z2_plus-20180207-1251.zip
+</VersionName>
+<VersionNumber type="integer">20180207</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180207-1251.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180207-1251.zip/download]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5>d3c53881d7c3b106f487249459b0684e</CheckMD5>
+<FileSize type="integer">475900</FileSize>
+<Developer><![CDATA[Shubh Mehtani]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/]]></WebsiteURL>
+<DonateURL><![CDATA[https://imgur.com/a/FADJ0]]></DonateURL>
+<Changelog>
+<![CDATA[
+# Note : 
+_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+---
+]]>
+</Changelog>
+</ROM>
