@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>Atomic-OS</RomName>
+<VersionName>Atomic-OS-PLASMA-2.2-land-20180206-0173
+</VersionName>
+<VersionNumber type="integer">20180206</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/land/Atomic-OS-PLASMA-2.2-land-20180206-0713.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/land/Atomic-OS-PLASMA-2.2-land-20180206-0713.zip/download]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5>7fbcdc17a0f0c962fbca059c618d69fb</CheckMD5>
+<FileSize type="integer">480700</FileSize>
+<Developer><![CDATA[Akshat Sinha]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-atomic-os-t3737278]]></WebsiteURL>
+<DonateURL><![CDATA[https://drive.google.com/file/d/1kXkihtyN1OFJUWTUZdvDSSq_9-uSWXkx/view?usp=drivesdk]]></DonateURL>
+<Changelog>
+<![CDATA[
+# Note : 
+_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+---
+]]>
+</Changelog>
+</ROM>
