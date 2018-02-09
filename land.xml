@@ -17,9 +17,9 @@
 So we're moving on to 2.3 beta for Atomic now.
 Here's a pretty generic changelog :
 
-This version includes fixes and little additions 
 
-- Merged android 8.1.0_r14 ( February security patch )
+- Merged android 8.1.0_r14
+- February Security Patches
 - Added lockscreen option to pass swipe up unlock 
 - Added recent panel settings 
 - Clear all fab button and position
@@ -33,6 +33,7 @@ This version includes fixes and little additions
 - Some performance improvements
 
 DEVICE CHANGES 
+
 - upstream kernel to 3.18.94
 - pull some blobs from nokia 6
 - other small device changes 
