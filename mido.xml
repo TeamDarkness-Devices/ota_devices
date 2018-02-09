@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.3-mido-20180206-1632
+<VersionName>Atomic-OS-PLASMA-2.3-mido-20180209-1555
 </VersionName>
-<VersionNumber type="integer">20180205</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/mido/Atomic-OS-PLASMA-2.3-mido-20180206-1632.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/mido/Atomic-OS-PLASMA-2.3-mido-20180206-1632.zip/download]]></HttpUrl>
+<VersionNumber type="integer">20180209</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/mido/Atomic-OS-PLASMA-2.3-mido-20180209-1555.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/mido/Atomic-OS-PLASMA-2.3-mido-20180209-1555.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
 <CheckMD5>253fe1f1d52ad10c243ed9cbb4844642</CheckMD5>
 <FileSize type="integer">408177255</FileSize>
