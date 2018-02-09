@@ -3,21 +3,40 @@
 <RomName>Atomic-OS</RomName>
 <VersionName>Atomic-OS-PLASMA-2.2-land-20180206-0173
 </VersionName>
-<VersionNumber type="integer">20180206</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/land/Atomic-OS-PLASMA-2.2-land-20180206-0713.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/land/Atomic-OS-PLASMA-2.2-land-20180206-0713.zip/download]]></HttpUrl>
+<VersionNumber type="integer">20180209</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/land/Atomic-OS-PLASMA-2.3-land-20180209-1508.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/land/Atomic-OS-PLASMA-2.3-land-20180209-1508.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>7fbcdc17a0f0c962fbca059c618d69fb</CheckMD5>
+<CheckMD5>d72d751aad127db6e3f48973e9e55017</CheckMD5>
 <FileSize type="integer">480700</FileSize>
 <Developer><![CDATA[Akshat Sinha]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-atomic-os-t3737278]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
 <![CDATA[
-# Note : 
-_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
-Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
----
+So we're moving on to 2.3 beta for Atomic now.
+Here's a pretty generic changelog :
+
+This version includes fixes and little additions 
+
+- Merged android 8.1.0_r14 ( February security patch )
+- Added lockscreen option to pass swipe up unlock 
+- Added recent panel settings 
+- Clear all fab button and position
+- Performance: memory optimizations
+- Themed DUI dialogs 
+- Themed suggestions card summary text
+- Fixed network mode bug
+- Battery saver qs tile improvement
+- Allow to disable qs footer warnings toggle
+- Fix some NPE's 
+- Some performance improvements
+
+DEVICE CHANGES 
+-upstream kernel to 3.18.94
+-pull some blobs from nokia 6
+-other small device changes 
+
 ]]>
 </Changelog>
 </ROM>
