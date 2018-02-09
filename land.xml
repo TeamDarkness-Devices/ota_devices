@@ -33,9 +33,9 @@ This version includes fixes and little additions
 - Some performance improvements
 
 DEVICE CHANGES 
--upstream kernel to 3.18.94
--pull some blobs from nokia 6
--other small device changes 
+- upstream kernel to 3.18.94
+- pull some blobs from nokia 6
+- other small device changes 
 
 ]]>
 </Changelog>
