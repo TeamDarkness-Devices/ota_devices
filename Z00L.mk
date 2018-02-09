@@ -11,7 +11,7 @@
 <FileSize type="integer">508177255</FileSize>
 <Developer><![CDATA[Mrinal Ghosh(mg712702)]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/zenfone-2-laser/development/rom-atomic-os-2-1-plasma-t3737041]]></WebsiteURL>
-<DonateURL><![CDATA[https://paypal.me/mg712702]]></DonateURL>
+<DonateURL><![CDATA[https://paypal.me/AbhishekAK]]></DonateURL>
 <Changelog>
 <![CDATA[
 # Note :
