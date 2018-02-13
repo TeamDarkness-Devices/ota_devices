@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.2-gemini-20180204-1219
+<VersionName>Atomic-OS-PLASMA-2.2-gemini-20180213-0623.zip
 </VersionName>
-<VersionNumber type="integer">20180204</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/gemini/Atomic-OS-PLASMA-2.2-gemini-20180204-1219.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/gemini/Atomic-OS-PLASMA-2.2-gemini-20180204-1219.zip/download]]></HttpUrl>
+<VersionNumber type="integer">20180213</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/gemini/Atomic-OS-PLASMA-2.2-gemini-20180213-0623.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/gemini/Atomic-OS-PLASMA-2.2-gemini-20180213-0623.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>4c4faa3886b5f03348113653edd5765c</CheckMD5>
-<FileSize type="integer">493717774</FileSize>
+<CheckMD5>8000664276749db9947ed4a22b552568</CheckMD5>
+<FileSize type="integer">502459440</FileSize>
 <Developer><![CDATA[RohanK and MOVZX]]></Developer>
 <WebsiteURL><![CDATA[https://www.beeg.com/]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
 <![CDATA[
+Added Clock customization.&#xA;
 Added double to sleep on lockscreen.&#xA;
 Added lockscreen media art toggle.&#xA;
 Added double tap to sleep on statusbar.&#xA;
