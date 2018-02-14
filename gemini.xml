@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.2-gemini-20180213-0623.zip
+<VersionName>Atomic-OS-PLASMA-2.3-gemini-20180213-0623.zip
 </VersionName>
 <VersionNumber type="integer">20180213</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/gemini/Atomic-OS-PLASMA-2.2-gemini-20180213-0623.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/gemini/Atomic-OS-PLASMA-2.2-gemini-20180213-0623.zip/download]]></HttpUrl>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/gemini/Atomic-OS-PLASMA-2.3-gemini-20180213-0623.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/gemini/Atomic-OS-PLASMA-2.3-gemini-20180213-0623.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
 <CheckMD5>8000664276749db9947ed4a22b552568</CheckMD5>
 <FileSize type="integer">502459440</FileSize>
