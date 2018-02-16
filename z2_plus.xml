@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.3-z2_plus-20180207-1345.zip
-</VersionName>
-<VersionNumber type="integer">20180207</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180207-1345.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180207-1345.zip/download]]></HttpUrl>
+<VersionName>Atomic-OS-PLASMA-2.3-z2_plus-20180216-0959.zip</VersionName>
+<VersionNumber type="integer">20180216</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180216-0959.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180216-0959.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>af80464efcd31e386203fff9ec6fd2e7</CheckMD5>
-<FileSize type="integer">496900</FileSize>
+<CheckMD5>b1a8c2ceed57487f78a6afa25326df1b</CheckMD5>
+<FileSize type="integer">477800</FileSize>
 <Developer><![CDATA[Shubh Mehtani]]></Developer>
-<WebsiteURL><![CDATA[https://forum.xda-developers.com/]]></WebsiteURL>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-atomic-os-t3748786]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
 <![CDATA[
-# Note : 
-_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
-Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
----
+So we're moving on to 2.3 beta for Atomic now.
+Here's a pretty generic changelog :
+- Merged android 8.1.0_r14
+- February Security Patches
+- Added lockscreen option to pass swipe up unlock 
+- Added recent panel settings 
+- Clear all fab button and position
+- Performance: memory optimizations
+- Themed DUI dialogs 
+- Themed suggestions card summary text
+- Fixed network mode bug
+- Battery saver qs tile improvement
+- Allow to disable qs footer warnings toggle
+- Fix some NPE's 
+- Some performance improvements
+
+Device Specific Changes:-
+- Offline charging fixed
+- Dt2w delay fixed
+- OTA fixed
+- Overlays update
+- Some small changes
+
 ]]>
 </Changelog>
 </ROM>
