@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.3-mido-20180209-1555
+<VersionName>Atomic-OS-PLASMA-2.3-mido-20180217-0514
 </VersionName>
-<VersionNumber type="integer">20180209</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/mido/Atomic-OS-PLASMA-2.3-mido-20180209-1555.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/mido/Atomic-OS-PLASMA-2.3-mido-20180209-1555.zip/download]]></HttpUrl>
+<VersionNumber type="integer">20180217</VersionNumber>
+<DirectUrl><![CDATA[https://de1.androidfilehost.com/dl/ZMO7kUx2zuCEseyQBTf1ag/1519110680/962187416754461294/Atomic-OS-PLASMA-2.3-mido-20180217-0514.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=962187416754461294]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>253fe1f1d52ad10c243ed9cbb4844642</CheckMD5>
-<FileSize type="integer">408177255</FileSize>
+<CheckMD5>a0ad9d0a7d36e7865780e42d7ba8d4ed</CheckMD5>
+<FileSize type="integer">461000000</FileSize>
 <Developer><![CDATA[AKabhishek]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-atomic-os-t3640177]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
@@ -18,17 +18,30 @@
 _Clean flash is  recommended. Bug reports are not appreciated without Logcat.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
 ---
- Append app name to screenshot file 
- Added SubstratumService
- Some improvements in our OTA app
- Kernel upstreamed to v3.18.94
- Goodix Improvements
- Added framework boost
- Updated toolchain to linaro 7.2 
- Hardcode Black level pattern and iso for ov13855 camera
- Added CPU input boost driver
- KCAL Improvements
- Some more performance improvements
-]]>
+ — Rebased launcher3
+ — Rebased gallery
+ — Fixed qs pull down 
+ — Added toggle to pull down statusbar from right side to show qs panel
+ — Fixed panel glitch 
+ — Screen pinning improvements
+ — Themes improvement
+ — Fixed some NPE's
+ — Ambient music ticker improvement
+ — Added statusbar clock customisation
+ — Updated black theme 
+ — Tiles improvement
+ — Added substratum service
+
+ Device Specific Changes :-
+
+  — Fixed camera crash
+ — Kernel upstreamed to v3.18.94
+ — Goodix Improvements
+ — Updated toolchain to linaro 7.2 
+ — Hardcode Black level pattern and iso for ov13855 camera
+ — Updated keylayout
+ — Some more performance improvements
+ — Fixed deep sleep issue
+ — Latest CAF tag LA.UM.6.6.r1-06300-89xx.0]]>
 </Changelog>
 </ROM>
