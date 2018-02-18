@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.2-land-20180206-0173
+<VersionName>Atomic-OS-PLASMA-2.3-lettuce-20180217-0825
 </VersionName>
-<VersionNumber type="integer">20180206</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/land/Atomic-OS-PLASMA-2.2-land-20180206-0713.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/land/Atomic-OS-PLASMA-2.2-land-20180206-0713.zip/download]]></HttpUrl>
+<VersionNumber type="integer">20180217</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/lettuce/Atomic-OS-PLASMA-2.3-lettuce-20180217-0825.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/lettuce/Atomic-OS-PLASMA-2.3-lettuce-20180217-0825.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>7fbcdc17a0f0c962fbca059c618d69fb</CheckMD5>
-<FileSize type="integer">480700</FileSize>
-<Developer><![CDATA[Akshat Sinha]]></Developer>
-<WebsiteURL><![CDATA[https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-atomic-os-t3737278]]></WebsiteURL>
+<CheckMD5>4f6254d91cab762ab6ab8adf44f64d94</CheckMD5>
+<FileSize type="integer">418800</FileSize>
+<Developer><![CDATA[DarkJokeR(Nikhil)]]></Developer>
+<WebsiteURL><![CDATA[http://forums.yuplaygod.com/threads/rom-8-1-0_r14-unofficial-atomic-os-2-3-oms-dui-18-02-2018.51117/]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
 <![CDATA[
