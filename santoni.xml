@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>Atomic-OS</RomName>
+<VersionName>Atomic-OS-PLASMA-2.3-santoni-20180219-1416
+</VersionName>
+<VersionNumber type="integer">20180219</VersionNumber>
+<DirectUrl><![CDATA[https://qc3.androidfilehost.com/dl/tIABAU6hq6RcCGqeO7KSPg/1519281394/890129502657584200/Atomic-OS-PLASMA-2.3-santoni-20180219-1416.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=890129502657584200]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5>6743fb8d2e1693bd70c4fe1301ebe26a</CheckMD5>
+<FileSize type="integer">460900000</FileSize>
+<Developer><![CDATA[VimalRaj]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-atomic-os-t3640177]]></WebsiteURL>
+<DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
+<Changelog>
+</Changelog>
+</ROM>
