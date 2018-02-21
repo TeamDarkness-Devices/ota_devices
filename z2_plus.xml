@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.3-z2_plus-20180216-0959.zip</VersionName>
-<VersionNumber type="integer">20180216</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180216-0959.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180216-0959.zip/download]]></HttpUrl>
+<VersionName>Atomic-OS-PLASMA-2.3-z2_plus-20180221-0550.zip</VersionName>
+<VersionNumber type="integer">20180221</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180221-0550.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180221-0550.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>b1a8c2ceed57487f78a6afa25326df1b</CheckMD5>
-<FileSize type="integer">477800</FileSize>
+<CheckMD5>96eb3146ddf60495458fe109cd676c0c</CheckMD5>
+<FileSize type="integer">480000</FileSize>
 <Developer><![CDATA[Shubh Mehtani]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-atomic-os-t3748786]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
@@ -30,7 +30,8 @@ Here's a pretty generic changelog :
 - Some performance improvements
 
 Device Specific Changes:-
-- Offline charging fixed
+- Offline charging fixed for all basebands
+- WiFi delay fixed
 - Dt2w delay fixed
 - OTA fixed
 - Overlays update
