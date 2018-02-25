@@ -1,60 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.3-gemini-20180213-0623.zip
-</VersionName>
-<VersionNumber type="integer">20180213</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/gemini/Atomic-OS-PLASMA-2.3-gemini-20180213-0623.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/gemini/Atomic-OS-PLASMA-2.3-gemini-20180213-0623.zip/download]]></HttpUrl>
+<VersionName>Atomic-OS-PLASMA-2.4-gemini-20180225-1818.zip</VersionName>
+<VersionNumber type="integer">20180225</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/gemini/Atomic-OS-PLASMA-2.3-gemini-20180225-1818.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/gemini/Atomic-OS-PLASMA-2.3-gemini-20180225-1818.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>8000664276749db9947ed4a22b552568</CheckMD5>
-<FileSize type="integer">502459440</FileSize>
+<CheckMD5></CheckMD5>
+<FileSize type="integer">506933377</FileSize>
 <Developer><![CDATA[RohanK and MOVZX]]></Developer>
 <WebsiteURL><![CDATA[https://www.beeg.com/]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
 <![CDATA[
-Added Clock customization.&#xA;
-Added double to sleep on lockscreen.&#xA;
-Added lockscreen media art toggle.&#xA;
-Added double tap to sleep on statusbar.&#xA;
-Added toggle to disable power menu on secure lock screen.&#xA;
-Allow to kill any app from recents panel in a safe way.&#xA;
-Display bluetooth battery status when available.&#xA;
-Show 4G instead of LTE switch.&#xA;
-Hide lockscreen items.&#xA;
-Allow doubletap/longpress power to toggle torch.&#xA;
-Show carrier label / custom label.&#xA;
-Allow to suppress sound/vibration if screen on .&#xA;
-Fixed offline charging.&#xA;
-Fixed issues with cast.&#xA;
-Added fling dark icons.&#xA;
-Merge tag 'LA.UM.6.4.r1-05700-8x98.0' into qcom_sepolicy.&#xA;
-Change dimen to removed left padding.&#xA;
-Allow to remove forced start margin. &#xA;
-Added ambient display music ticker.&#xA;
-Rebased Launcher3.&#xA;
-Enabled sepolicy for all.&#xA;
-Screen off animations.&#xA;
-Add automatic albumart base color mode for pulse.&#xA;
-Add vpn icon in tuner.&#xA;
-Powermenu lockscreen visibility for others.&#xA;
-Smart notification sound options.&#xA;
-Removed volte icon and appen volte status in carrier name.&#xA;
-Fixed some null errors and crashes.&#xA;
-Some more improvements and clean ups in sources.&#xA;
-Allow to dismiss keyguard automatically when face is recognised.&#xA;
-Fixed dialog colors on dark/black theme.&#xA;
-Removed left padding in settings.&#xA;
-Added OTA app.&#xA;
-Show internal storage by default in Documets UI.&#xA;
-Enabled qs panel transparency.&#xA;
-Updated prebuilt retro APK.&#xA;
-Exposed notification log.&#xA;
-Added sim enable toggle.&#xA;
-Unlink notification and ringer sound.&#xA;
-Improved Thermals and upstreamed kernel.&#xA;
+&#xA;Improved and upstreamed kernel.&#xA;
 Latest lineage merges.&#xA;
+Rebased theming engine and added more accents.&#xA;
+Atomic-OS logo.&#xA;
+Battery styles.&#xA;
+Built in pissel launcher.&#xA;
+Omni Jaws for weather tile in QS and lockscreen.&#xA;
+Some more UX improvements.&#xA;
 ]]>
 </Changelog>
 </ROM>
