@@ -4,10 +4,10 @@
 <VersionName>Atomic-OS-PLASMA-2.3-Z00L-20180216-1052
 </VersionName>
 <VersionNumber type="integer">20180216</VersionNumber>
-<DirectUrl><![CDATA[https://de1.androidfilehost.com/dl/xRSXlfApJVV7QODMua2VvQ/1519153609/818070582850493141/Atomic-OS-PLASMA-2.3-Z00L-20180216-1052.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://androidfilehost.com/?fid=818070582850493141]]></HttpUrl>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/Z00L/Atomic-OS-PLASMA-2.4-Z00L-20180224-2324.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/Z00L/Atomic-OS-PLASMA-2.4-Z00L-20180224-2324.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>8f2a523fd4aab4ff0fbdda0fcaada863</CheckMD5>
+<CheckMD5>3c775c97b38af73c5b299713989254bf</CheckMD5>
 <FileSize type="integer">585696262</FileSize>
 <Developer><![CDATA[Mrinal Ghosh(mg712702)]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/zenfone-2-laser/development/rom-atomic-os-2-1-plasma-t3737041]]></WebsiteURL>
@@ -16,25 +16,54 @@
 <![CDATA[
 # Note :
 _Clean flash is  recommended. Bug reports are not appreciated without Logcat.
-Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
----
- — Rebased launcher3
- — Rebased gallery
- — Fixed qs pull down 
- — Added toggle to pull down statusbar from right side to show qs panel
- — Fixed panel glitch 
- — Screen pinning improvements
- — Themes improvement
- — Fixed some NPE's
- — Ambient music ticker improvement
- — Added statusbar clock customisation
- — Updated black theme 
- — Tiles improvement
- — Added substratum service
- Device Specific Changes :-
- — Added ZukDoze
- — Now The Default Camera Is Snap
- — Updated LED Capabilities
- — Performance Tweaks & Improvements]]>
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._.
+
+- Added navigation bar tile
+
+- Various fixes for clock and date customisations
+
+- Show infinity for large notification counts
+
+- Added omnijaws qs tile (Weather tile)
+
+- Added battery styles
+
+- Changed default value for columns in qs panel
+
+- Fix brightness slider under settings/display for dark theme
+
+- Allow vibration instead of beep for in-call-notifications
+
+- Moved in call vibrations options to dialer settings
+
+- Added vibrate option for every mintes in dialer settings
+
+- Added Proximity speakerphone options in dialer settings
+
+- New icon for snap camera
+
+- Fixed call delay issues
+
+- Added more tiles to default list
+
+- Enable power save config of system apps
+
+- Fix weird touch issues when opening app info of newly installed app
+
+- DUI theming improvements
+
+- Allow to hide or show date and weather - Launcher
+
+- Add options to change grid sizes - Launcher
+
+- Doze compatibilty under same ambient display option
+
+- Added themes option category under settings/display
+
+- Added Always On Display
+
+- Battery LED color issue is now fixed. (You can change the color into Red, Yellow, Green and can also change the intensity and create combination of these three)
+
+-  Some performance improvements]]>
 </Changelog>
 </ROM>
