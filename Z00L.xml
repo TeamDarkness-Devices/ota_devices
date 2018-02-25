@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.3-Z00L-20180216-1052
+<VersionName>Atomic-OS-PLASMA-2.4-Z00L-20180224-2324
 </VersionName>
-<VersionNumber type="integer">20180216</VersionNumber>
+<VersionNumber type="integer">20180224</VersionNumber>
 <DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/Z00L/Atomic-OS-PLASMA-2.4-Z00L-20180224-2324.zip]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/Z00L/Atomic-OS-PLASMA-2.4-Z00L-20180224-2324.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
