@@ -1,42 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.3-z2_plus-20180221-0550.zip</VersionName>
-<VersionNumber type="integer">20180221</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180221-0550.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.3-z2_plus-20180221-0550.zip/download]]></HttpUrl>
+<VersionName>Atomic-OS-PLASMA-2.4-z2_plus-20180228-1047.zip</VersionName>
+<VersionNumber type="integer">20180228</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.4-z2_plus-20180228-1047.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.4-z2_plus-20180228-1047.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>96eb3146ddf60495458fe109cd676c0c</CheckMD5>
+<CheckMD5>888573363658e8de66b0b6189256b1ec</CheckMD5>
 <FileSize type="integer">480000</FileSize>
 <Developer><![CDATA[Shubh Mehtani]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-atomic-os-t3748786]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
 <![CDATA[
-So we're moving on to 2.3 beta for Atomic now.
+So we're moving on to 2.4 beta for Atomic now.
 Here's a pretty generic changelog :
-- Merged android 8.1.0_r14
-- February Security Patches
-- Added lockscreen option to pass swipe up unlock 
-- Added recent panel settings 
-- Clear all fab button and position
-- Performance: memory optimizations
-- Themed DUI dialogs 
-- Themed suggestions card summary text
-- Fixed network mode bug
-- Battery saver qs tile improvement
-- Allow to disable qs footer warnings toggle
-- Fix some NPE's 
+- Added navigation bar tile
+- Various fixes for clock and date customisations
+- Show infinity for large notification counts
+- Added omnijaws qs tile (Weather tile)
+- Added battery styles
+- Added Pocket mode
+- Changed default value for columns in qs panel
+- Fix brightness slider under settings/display for dark theme
+- Allow vibration instead of beep for in-call-notifications
+- Moved in call vibrations options to dialer settings
+- Added vibrate option for every mintes in dialer settings
+- Added Proximity speakerphone options in dialer settings
+- New icon for snap camera
+- Fixed call delay issues
+- Added more tiles to default list
+- Enable power save config of system apps
+- Fix weird touch issues when opening app info of newly installed app
+- DUI theming improvements
+- Allow to hide or show date and weather - Launcher
+- Add options to change grid sizes - Launcher
+- Doze compatibilty under same ambient display option
+- Added themes option category under settings/display
 - Some performance improvements
 
 Device Specific Changes:-
 - Offline charging fixed for all basebands
-- WiFi delay fixed
 - Dt2w delay fixed
 - OTA fixed
 - Overlays update
 - Some small changes
-
+- Updated timeservices
+- Updated graphics stack
 ]]>
 </Changelog>
 </ROM>
