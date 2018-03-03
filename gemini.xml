@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.4-gemini-20180225-1818.zip</VersionName>
-<VersionNumber type="integer">20180225</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/gemini/Atomic-OS-PLASMA-2.3-gemini-20180225-1818.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/gemini/Atomic-OS-PLASMA-2.3-gemini-20180225-1818.zip/download]]></HttpUrl>
+<VersionName>Atomic-OS-PLASMA-2.4-gemini-20180303-1815.zip</VersionName>
+<VersionNumber type="integer">20180303</VersionNumber>
+<DirectUrl><![CDATA[https://qc3.androidfilehost.com/dl/3il6-guqwt7tjaChGKdTnw/1520335121/890129502657588010/Atomic-OS-PLASMA-2.4-gemini-20180303-1815.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=890129502657588010]]></HttpUrl>
 <Android>8.1.0</Android>
 <CheckMD5></CheckMD5>
-<FileSize type="integer">506933377</FileSize>
+<FileSize type="integer">506828466</FileSize>
 <Developer><![CDATA[RohanK and MOVZX]]></Developer>
 <WebsiteURL><![CDATA[https://www.beeg.com/]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
@@ -15,12 +15,9 @@
 <![CDATA[
 &#xA;Improved and upstreamed kernel.&#xA;
 Latest lineage merges.&#xA;
-Rebased theming engine and added more accents.&#xA;
-Atomic-OS logo.&#xA;
-Battery styles.&#xA;
-Built in pissel launcher.&#xA;
-Omni Jaws for weather tile in QS and lockscreen.&#xA;
+Added pocket mode.&#xA;
 Some more UX improvements.&#xA;
+Added some more stuuf and optimization over the week, so prolly dont remember..&#xA;
 ]]>
 </Changelog>
 </ROM>
