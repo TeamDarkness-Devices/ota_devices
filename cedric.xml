@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.4-cedric-20180225-2002
-</VersionName>
-<VersionNumber type="integer">20180225</VersionNumber>
-<DirectUrl><![CDATA[https://qc0.uploads.androidfilehost.com/dl/3rOuVGtPNvjyZ2hX_MEDgw/1519824233/890129502657585477/Atomic-OS-PLASMA-2.4-cedric-20180225-2002.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://androidfilehost.com/?fid=890129502657585477]]></HttpUrl>
+<VersionName>Atomic-OS-PLASMA-2.4-cedric-20180304-0550</VersionName>
+<VersionNumber type="integer">20180304</VersionNumber>
+<DirectUrl><![CDATA[https://de1.androidfilehost.com/dl/BLQcfOto_gEwK-6oNIClJQ/1520382901/673956719939824862/Atomic-OS-PLASMA-2.4-cedric-20180304-0550.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://androidfilehost.com/?fid=673956719939824862]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>a712448649541fe0d9e68e2393145fdb</CheckMD5>
-<FileSize type="integer">523883515</FileSize>
+<CheckMD5>bb7ee276b50627f8c2b295e002df1936</CheckMD5>
+<FileSize type="integer">515634627</FileSize>
 <Developer><![CDATA[Fedray]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/g5/development/rom-atomicos-2-3-t3747716]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
-<Changelog>
+<Changelog> -Upstreamed kernel to 3.18.97
+  -Upstreamed source changes
+  -Some device tree changes
 </Changelog>
 </ROM>
