@@ -3,8 +3,8 @@
 <RomName>Atomic-OS</RomName>
 <VersionName>Atomic-OS-PLASMA-2.4-cedric-20180304-0550</VersionName>
 <VersionNumber type="integer">20180304</VersionNumber>
-<DirectUrl><![CDATA[https://de1.androidfilehost.com/dl/BLQcfOto_gEwK-6oNIClJQ/1520382901/673956719939824862/Atomic-OS-PLASMA-2.4-cedric-20180304-0550.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://androidfilehost.com/?fid=673956719939824862]]></HttpUrl>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/cedric/Atomic-OS-PLASMA-2.4-cedric-20180304-0550.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/cedric/Atomic-OS-PLASMA-2.4-cedric-20180304-0550.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
 <CheckMD5>bb7ee276b50627f8c2b295e002df1936</CheckMD5>
 <FileSize type="integer">515634627</FileSize>
