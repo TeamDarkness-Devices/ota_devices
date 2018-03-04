@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>Atomic-OS</RomName>
+<VersionName>Atomic-OS-PLASMA-2.4-athene-20180304-0858
+</VersionName>
+<VersionNumber type="integer">20180304</VersionNumber>
+<DirectUrl><![CDATA[https://astuteinternet.dl.sourceforge.net/project/teamdarkness/Atomic-OS/athene/arm64/Atomic-OS-PLASMA-2.4-athene-20180304-0858.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/athene/arm64/Atomic-OS-PLASMA-2.4-athene-20180304-0858.zip/download]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5>bee5c7191196fbf1193ab51bb104de30</CheckMD5>
+<FileSize type="integer">427535745</FileSize>
+<Developer><![CDATA[Vinesh Iyappan (theHari08)]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/moto-g4-plus/development/rom-atomic-os-2-1-plasma-t3736607]]></WebsiteURL>
+<DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
+<Changelog>
+Chop-chop torch action fixed.
+</Changelog>
+</ROM>
