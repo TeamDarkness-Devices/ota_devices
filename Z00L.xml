@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.4-Z00L-20180302-0930
+<VersionName>Atomic-OS-PLASMA-2.4-Z00L-20180312-0921
 </VersionName>
-<VersionNumber type="integer">20180302</VersionNumber>
-<DirectUrl><![CDATA[http://qc4.androidfilehost.com/dl/vWn8Q30IfRXU0XIk0m_ohA/1520221878/962187416754464906/Atomic-OS-PLASMA-2.4-Z00L-20180302-0930.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://androidfilehost.com/?fid=962187416754464906]]></HttpUrl>
+<VersionNumber type="integer">20180312</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/Z00L/Atomic-OS-PLASMA-2.4-Z00L-20180312-0921.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/Z00L/Atomic-OS-PLASMA-2.4-Z00L-20180312-0921.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>bc0868981a7e2b1ab1873d9195d6ef06</CheckMD5>
+<CheckMD5>7b42eac9c2564e9bace6e4348d45e4a1</CheckMD5>
 <FileSize type="integer">585696262</FileSize>
 <Developer><![CDATA[Mrinal Ghosh(mg712702)]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/zenfone-2-laser/development/rom-atomic-os-2-1-plasma-t3737041]]></WebsiteURL>
@@ -18,43 +18,12 @@
 _Clean flash is  recommended. Bug reports are not appreciated without Logcat.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs._.
 
-- Comes With FireKernel In-Built
-
-- Added Faster Boot By TheImpulson
-
-- Fixed Notification Panel Lags
-
-- Added DU fruity pebbles
-
-- Added Statusbar Weather
-
-- Added Lockscreen Weather
-
-
-- Added AOS Logo in the statusbar
-
-- Themed power menu items
-
-- Added theme tile
-
-- Themed notification info text
-
-- Added Pocket lock
-
-- Animations are now reverted to its default state ( Smooth like clean AOSP )
-
-- Fixed Expanded Desktop in dark theme
-
-- Organized launcher settings 
-
-- Fling kb cursors: long press left/right to keep moving cursor
-
-- Fixed carrier label toggle
-
-- Removed large battery icon
-
-- Fixed slow thumbnails loading
-
--Much More]]>
+- March Security Patch
+- Added Slim Recent
+- Added Recents Icon Pack Support
+- Now Battery Level Will Shown In Bottom Of Ambient Display
+- Now You Can Enable/Disable Roaming Indicator
+- Some Other Fixes
+- Much More...!!]]>
 </Changelog>
 </ROM>
