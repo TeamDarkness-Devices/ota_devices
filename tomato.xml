@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>Atomic-OS</RomName>
+<VersionName>Atomic-OS-PLASMA-2.4-tomato-20180312-0750</VersionName>
+<VersionNumber type="integer">20180312</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/tomato/Atomic-OS-PLASMA-2.4-tomato-20180312-0750.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/tomato/Atomic-OS-PLASMA-2.4-tomato-20180312-0750.zip/download]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5>b80429058c288668c0bc337f3a9787d7</CheckMD5>
+<FileSize type="integer">515634627</FileSize>
+<Developer><![CDATA[Ashish]]></Developer>
+<WebsiteURL><![CDATA[http://forums.yuplaygod.com/threads/rom-official-atomicos-2-2-8-1-0_r7-volte-04-02-2018-updated.51027/]]></WebsiteURL>
+<DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
+<Changelog> 
+# Note :
+_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._.
+- Added Ruthless Pixel Launcher
+- Fixed Notification Panel Lags
+- Added DU fruity pebbles
+- Added Statusbar Weather
+- Added Lockscreen Weather
+- Added AOS Logo in the statusbar
+- Themed power menu items
+- Added theme tile
+- Themed notification info text
+- Added Pocket lock
+- Animations are now reverted to its default state ( Smooth like clean AOSP )
+- Fixed Expanded Desktop in dark theme
+- Organized launcher settings 
+- Fling kb cursors: long press left/right to keep moving cursor
+- Fixed carrier label toggle
+- Removed large battery icon
+- Fixed slow thumbnails loading
+-Much More]]>
+</Changelog>
+</ROM>
