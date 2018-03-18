@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.3-lettuce-20180217-0825
+<VersionName>Atomic-OS-PLASMA-2.4-lettuce-20180317-2311
 </VersionName>
-<VersionNumber type="integer">20180217</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/lettuce/Atomic-OS-PLASMA-2.3-lettuce-20180217-0825.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/lettuce/Atomic-OS-PLASMA-2.3-lettuce-20180217-0825.zip/download]]></HttpUrl>
+<VersionNumber type="integer">20180317</VersionNumber>
+<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/teamdarkness/Atomic-OS/lettuce/Atomic-OS-PLASMA-2.4-lettuce-20180317-2311.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fteamdarkness%2Ffiles%2FAtomic-OS%2Flettuce%2FAtomic-OS-PLASMA-2.4-lettuce-20180317-2311.zip%2Fdownload&ts=1521386900]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/lettuce/Atomic-OS-PLASMA-2.4-lettuce-20180317-2311.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>4f6254d91cab762ab6ab8adf44f64d94</CheckMD5>
-<FileSize type="integer">418800</FileSize>
+<CheckMD5>
+d4bb8b6c0e14f742adb9b155293b2d63</CheckMD5>
+<FileSize type="integer">421400</FileSize>
 <Developer><![CDATA[DarkJokeR(Nikhil)]]></Developer>
-<WebsiteURL><![CDATA[http://forums.yuplaygod.com/threads/rom-8-1-0_r14-unofficial-atomic-os-2-3-oms-dui-18-02-2018.51117/]]></WebsiteURL>
+<WebsiteURL><![CDATA[http://forums.yuplaygod.com/threads/rom-8-1-0_r18-official-atomic-os-2-4-plasma-oms-dui-18-02-2018.51117/]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
 <![CDATA[
