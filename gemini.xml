@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.4-gemini-20180404-0850.zip</VersionName>
-<VersionNumber type="integer">20180404</VersionNumber>
-<DirectUrl><![CDATA[https://master.dl.sourceforge.net/project/teamdarkness/Atomic-OS/gemini/Atomic-OS-PLASMA-2.4-gemini-20180404-0850.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/gemini/Atomic-OS-PLASMA-2.4-gemini-20180404-0850.zip]]></HttpUrl>
+<VersionName>Atomic-OS-PLASMA-2.4-gemini-20180412-1534.zip</VersionName>
+<VersionNumber type="integer">20180412</VersionNumber>
+<DirectUrl><![CDATA[https://master.dl.sourceforge.net/project/teamdarkness/Atomic-OS/gemini/Atomic-OS-PLASMA-2.4-gemini-20180412-1534.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/gemini/Atomic-OS-PLASMA-2.4-gemini-20180412-1534.zip]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5></CheckMD5>
-<FileSize type="integer">508774255</FileSize>
+<CheckMD5>d1d10edb34561b7f010f874958365b69</CheckMD5>
+<FileSize type="integer">507184887</FileSize>
 <Developer><![CDATA[RohanK and MOVZX]]></Developer>
 <WebsiteURL><![CDATA[https://www.beeg.com/]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
-<![CDATA[Revamped and upstreamed kernel.&#xA;
-Latest lineage merges.&#xA;
-Fixed dark themes.&#xA;
-P animations..&#xA;
-There has been a lot of changes, I can't remember them all, KBYETHX.&#xA;
+<![CDATA[Revamped and upstreamed.&#xA;
+There has been a lot of changes,but Rohan still being a douche, Vivian u slay, KBYETHX.&#xA;
 ]]>
 </Changelog>
 </ROM>
