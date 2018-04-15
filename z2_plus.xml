@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.4-z2_plus-20180228-1047.zip</VersionName>
-<VersionNumber type="integer">20180228</VersionNumber>
-<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.4-z2_plus-20180228-1047.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.4-z2_plus-20180228-1047.zip/download]]></HttpUrl>
+<VersionName>Atomic-OS-PLASMA-2.4-z2_plus-20180415-1934.zip</VersionName>
+<VersionNumber type="integer">20180415</VersionNumber>
+<DirectUrl><![CDATA[https://excellmedia.dl.sourceforge.net/project/teamdarkness/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.4-z2_plus-20180415-1934.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/z2_plus/Atomic-OS-PLASMA-2.4-z2_plus-20180415-1934.zip/download]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>888573363658e8de66b0b6189256b1ec</CheckMD5>
-<FileSize type="integer">480000</FileSize>
+<CheckMD5>8d2459bbdbb7d673129753be23da3cbb</CheckMD5>
+<FileSize type="integer">465000</FileSize>
 <Developer><![CDATA[Shubh Mehtani]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-atomic-os-t3748786]]></WebsiteURL>
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
@@ -37,16 +37,21 @@ Here's a pretty generic changelog :
 - Add options to change grid sizes - Launcher
 - Doze compatibilty under same ambient display option
 - Added themes option category under settings/display
-- Some performance improvements
+- Some performance improvement
+- Scrolling cache
+- Android P transition
+- Fruity Pebbles
+- DUI custom actions: compatibility for Tasker and other activities
+- April security patch
 
 Device Specific Changes:-
-- Offline charging fixed for all basebands
-- Dt2w delay fixed
-- OTA fixed
-- Overlays update
-- Some small changes
-- Updated timeservices
-- Updated graphics stack
+- Enabled full treble.
+- VOLTE works.
+- Official magisk works now.
+- New graphics blobs.
+- New vulkan blobs.
+- Full update to ZUI 3.5.344
+- NeuralNetworks HAL added.
 ]]>
 </Changelog>
 </ROM>
