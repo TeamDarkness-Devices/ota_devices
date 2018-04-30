@@ -1,0 +1,63 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>Atomic-OS</RomName>
+<VersionName>Atomic-OS-PLASMA-2.4-ham-20180430-0640.zip</VersionName>
+<VersionNumber type="integer">20180430</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/ham/]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/ham/]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5>8d2459bbdbb7d673129753be23da3cbb</CheckMD5>
+<FileSize type="integer">346200</FileSize>
+<Developer><![CDATA[Anush Madathumkara]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/zuk-z1/orig-development/rom-atomic-os-v2-2-t3745130/amp/]]></WebsiteURL>
+<DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
+<Changelog>
+<![CDATA[
+So we're moving on to 2.4 beta for Atomic now.
+Here's a pretty generic changelog :
+- Added navigation bar tile
+- Various fixes for clock and date customisations
+- Show infinity for large notification counts
+- Added omnijaws qs tile (Weather tile)
+- Added battery styles
+- Added Pocket mode
+- Changed default value for columns in qs panel
+- Fix brightness slider under settings/display for dark theme
+- Allow vibration instead of beep for in-call-notifications
+- Moved in call vibrations options to dialer settings
+- Added vibrate option for every mintes in dialer settings
+- Added Proximity speakerphone options in dialer settings
+- New icon for snap camera
+- Fixed call delay issues
+- Added more tiles to default list
+- Enable power save config of system apps
+- Fix weird touch issues when opening app info of newly installed app
+- DUI theming improvements
+- Allow to hide or show date and weather - Launcher
+- Add options to change grid sizes - Launcher
+- Doze compatibilty under same ambient display option
+- Added themes option category under settings/display
+- Some performance improvement
+- Scrolling cache
+- Android P transition
+- Fruity Pebbles
+- DUI custom actions: compatibility for Tasker and other activities
+- April security patch
+Device Specific Changes:-
+- New Camera Module
+-first OTA
+- Please do a clean flash
+- Official magisk works now.
+- New graphics blobs.
+- New Camera Module.
+-DT2W fixed.
+-Powehal V1.1 binderized and vendorized.
+-Using Cyanogen Firmware images for good stability
+-4K support added 
+- HDR freeze fixed n image processing speed improved
+-Many more surprise 
+- NeuralNetworks HAL added.
+]]>
+</Changelog>
+</ROM>
